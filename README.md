@@ -1,1 +1,1 @@
-# security101
+## Cookie Authentication in .NET Core MVC application
